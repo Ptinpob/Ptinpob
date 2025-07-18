@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Programmer
 ----------
 
-Im a Debsirin Student in M.6 . I've been learning Java and C++
+Im a KMUTT IT . I've been learning Java and C++
 
 * 🖥️  See my portfolio at [Myportfolio](http://127.0.0.1:5500/index_tinnapob.html)
 * ✉️  You can contact me at [tinnapob.pp@gmail.com](mailto:tinnapob.pp@gmail.com)
